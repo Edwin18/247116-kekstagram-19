@@ -50,6 +50,7 @@ var getRandomComment = function () {
 //создаем объект с нужными полями
 var getPhotoObject = function () {
   var photoSetup = [];
+
   // а вот объявляем тут сверху, нах нам на каждой итерации создавать новую переменную
   var tempObject = {};
 
